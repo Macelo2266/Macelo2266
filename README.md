@@ -1,8 +1,6 @@
 <h1 align="center">Olá! Eu sou o Macelo 👋</h1>
 
-<p align="center">
-  <img src="https://github.com/Macelo2266/Macelo2266/blob/main/perfil.jpg" width="160" height="160" style="border-radius: 50%" alt="Foto de perfil"/>
-</p>
+
 
 ---
 
