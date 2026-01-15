@@ -51,13 +51,6 @@ Busco constante evolução técnica, com interesse em **arquitetura de software*
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Macelo2266&show_icons=true&theme=github_dark&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macelo2266&layout=compact&theme=github_dark"/>
-</p>
-
 
 ---
 
@@ -72,6 +65,9 @@ Busco constante evolução técnica, com interesse em **arquitetura de software*
   </a>
   <a href="https://wa.me/5583999539047">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+   <a href="https://github.com/Macelo2266">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
