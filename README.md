@@ -54,8 +54,8 @@ Estou sempre buscando evoluir tecnicamente, com interesse em **segurança da inf
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=(https://github.com/Macelo2266)&show_icons=true&theme=dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Macelo2266&layout=compact&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Macelo2266&show_icons=true&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macelo2266&layout=compact&theme=dark"/>
 </p>
 
 ---
