@@ -10,11 +10,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou um desenvolvedor backend em formação, com foco na construção de **APIs REST**, **regras de negócio** e **integrações com banco de dados**.
+Sou um desenvolvedor backend em formação, com foco na construção de **APIs REST**, **regras de negócio** e **integração com bancos de dados**.
 
-Tenho experiência com **Java** e **Spring Boot**, desenvolvendo aplicações backend organizadas, seguindo boas práticas como **MVC**, **POO** e **clean code**.
+Tenho experiência com **Java** e **Spring Boot**, desenvolvendo aplicações backend organizadas, seguindo boas práticas como **MVC**, **POO** e **Clean Code**.
 
-Estou sempre buscando evoluir tecnicamente, com interesse em **segurança da informação**, **arquitetura de software** e **boas práticas de desenvolvimento backend**.
+Busco constante evolução técnica, com interesse em **arquitetura de software**, **segurança da informação** e **boas práticas de desenvolvimento backend**.
 
 ---
 
@@ -69,4 +69,11 @@ Estou sempre buscando evoluir tecnicamente, com interesse em **segurança da inf
   <a href="https://www.linkedin.com/in/macelo-araujo-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://wa.me/5583999539047">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Macelo2266">
+    <img src="https://img.shields.io/badge/GitHub-Macelo2266-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
+
