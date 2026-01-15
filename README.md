@@ -1,46 +1,72 @@
-<h1 align="center">Olá! Eu sou o Macelo 👋</h1>
-
-
-
----
-
-🎓 **Graduando em Sistemas de Informação** pela **UFRPE**  
-💻 Desenvolvedor com foco em backend, APIs REST e soluções práticas  
-🚀 Apaixonado por tecnologia, aprendizado constante e desenvolvimento limpo  
-
----
-
-### 🛠️ Tecnologias que utilizo:
-
-- ⚙️ **Linguagens:** Java, SQL
-- 🧪 **Banco de dados:** MySQL, PostgreSQL
-- 🌐 **Frameworks:** Spring Boot, Servlets, JDBC
-- 📦 **Ferramentas:** Postman, Git, GitHub, Insomnia, Docker (básico)
-- 📐 **Outros conhecimentos:** MVC, POO, UML, Scrum, API REST, Swagger
-
----
-
-### 👨‍💻 Um pouco sobre mim:
-
-Sou um desenvolvedor em formação, com grande interesse em criar soluções que façam sentido na prática.  
-Tenho experiência com Java e banco de dados, principalmente para aplicações web usando Spring Boot.  
-Nas horas vagas gosto de explorar segurança da informação 🔐, assistir vídeos de tecnologia e jogar online 🎮.  
-Sou determinado, resiliente e sempre buscando evoluir!
-
----
-
-### 📬 Onde me encontrar:
-
-[![Gmail Badge](https://img.shields.io/badge/-macellopereira23@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:macellopereira23@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Macelo%20Araujo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/macelo-araujo-dev/)](https://www.linkedin.com/in/macelo-araujo-dev/)
-
----
-
-> _"If you spend too much time thinking about a thing, you’ll never get it done." – Bruce Lee_
-
----
-
+<h1 align="center">Olá, eu sou o Macelo 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="GIF programando em Java">
+  💻 Desenvolvedor <strong>Backend</strong> <br/>
+  🎓 Graduando em <strong>Sistemas de Informação</strong> pela <strong>UFRPE</strong> <br/>
+  ⚙️ Foco em <strong>Java</strong>, <strong>APIs REST</strong> e <strong>arquiteturas backend</strong>
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou um desenvolvedor backend em formação, com foco na construção de **APIs REST**, **regras de negócio** e **integrações com banco de dados**.
+
+Tenho experiência com **Java** e **Spring Boot**, desenvolvendo aplicações backend organizadas, seguindo boas práticas como **MVC**, **POO** e **clean code**.
+
+Estou sempre buscando evoluir tecnicamente, com interesse em **segurança da informação**, **arquitetura de software** e **boas práticas de desenvolvimento backend**.
+
+---
+
+## 🛠️ Stack Backend
+
+### ⚙️ Linguagens
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🌐 Frameworks & Backend
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
+![Servlets](https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### 🧪 Bancos de Dados
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📦 Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Básico-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 📐 Conceitos & Práticas
+- APIs REST  
+- Arquitetura em camadas  
+- MVC  
+- POO  
+- Clean Code  
+- Swagger / OpenAPI  
+- Scrum  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark"/>
+</p>
+
+---
+
+## 📬 Contato
+
+<p align="left">
+  <a href="mailto:macellopereira23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/macelo-araujo-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
