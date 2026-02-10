@@ -1,30 +1,30 @@
-<h1 align="center">Olá, eu sou o Macelo 👋</h1>
+<h1 align="center">Olá, eu sou o Macelo Araújo 👋</h1>
 
 <p align="center">
-  💻 Desenvolvedor <strong>Backend</strong> <br/>
+  💻 Desenvolvedor <strong>Back-end</strong> <br/>
   🎓 Graduando em <strong>Sistemas de Informação</strong> pela <strong>UFRPE</strong> <br/>
-  ⚙️ Foco em <strong>Java</strong>, <strong>APIs REST</strong> e <strong>arquiteturas backend</strong>
+  ⚙️ Atuação com <strong>Java</strong>, <strong>Spring Boot</strong> e <strong>APIs REST</strong>
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou um desenvolvedor backend em formação, com foco na construção de **APIs REST**, **regras de negócio** e **integração com bancos de dados**.
+Sou desenvolvedor **Back-end** em constante evolução, com foco na criação de **APIs RESTful**, **regras de negócio bem definidas** e **integração eficiente com bancos de dados**.
 
-Tenho experiência com **Java** e **Spring Boot**, desenvolvendo aplicações backend organizadas, seguindo boas práticas como **MVC**, **POO** e **Clean Code**.
+Tenho experiência prática com **Java** e **Spring Boot**, desenvolvendo aplicações organizadas e escaláveis, aplicando boas práticas como **POO**, **MVC**, **Clean Code** e **arquitetura em camadas**.
 
-Busco constante evolução técnica, com interesse em **arquitetura de software**, **segurança da informação** e **boas práticas de desenvolvimento backend**.
+Atualmente, busco oportunidades como **Estagiário** ou **Desenvolvedor Back-end Júnior**, com grande interesse em **arquitetura de software**, **segurança**, **boas práticas** e **desenvolvimento de sistemas robustos**.
 
 ---
 
-## 🛠️ Stack Backend
+## 🛠️ Stack Back-end
 
 ### ⚙️ Linguagens
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🌐 Frameworks & Backend
+### 🌐 Frameworks & Tecnologias
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Servlets](https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -40,17 +40,14 @@ Busco constante evolução técnica, com interesse em **arquitetura de software*
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Básico-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 📐 Conceitos & Práticas
-- APIs REST  
+### 📐 Conceitos & Boas Práticas
+- APIs RESTful  
 - Arquitetura em camadas  
 - MVC  
-- POO  
+- Programação Orientada a Objetos (POO)  
 - Clean Code  
 - Swagger / OpenAPI  
-- Scrum  
-
----
-
+- Metodologias Ágeis (Scrum)  
 
 ---
 
@@ -66,8 +63,9 @@ Busco constante evolução técnica, com interesse em **arquitetura de software*
   <a href="https://wa.me/5583999539047">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-   <a href="https://github.com/Macelo2266">
+  <a href="https://github.com/Macelo2266">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
+
 
